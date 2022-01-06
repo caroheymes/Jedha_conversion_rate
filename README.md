@@ -2,7 +2,7 @@
 # Conversion rate challenge 
 # Classification and explanation of conversion features 
 
-Here are the findings :
+Main findings :
 **There is a strong relationship between the pages views and conversion : the more pages you see, the more content you read, the more likely you are to find something of interest and buy it !**
 
 ![image](https://user-images.githubusercontent.com/32369680/148314603-b76a4fb3-19a9-495e-bb11-9efeb728bb8a.png)
@@ -20,6 +20,7 @@ It is imperative to invest in quality organic content to be better referenced by
 Better content (in quality and quantity) is key to be well positionned in the SERP.
 Content matching long train queries on Google can help to be well-positionned in the SERP.
 Prospects find the products they need, and spend more time on the website.
+SEO strategy should be adapted to each country. Perhaps a better CDN could help
 ![image](https://user-images.githubusercontent.com/32369680/148312460-07e1718f-957e-4759-a64d-379e6dd12790.png)
 
 
