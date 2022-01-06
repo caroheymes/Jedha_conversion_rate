@@ -1,5 +1,6 @@
 
-# ** Conversion rate challenge : Classification and explanation of conversion features **
+# Conversion rate challenge 
+# Classification and explanation of conversion features 
 
 Here are the findings :
 **There is a strong relationship between the pages views and conversion : the more pages you see, the more content you read, the more likely you are to find something of interest and buy it !**
