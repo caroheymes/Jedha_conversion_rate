@@ -2,6 +2,8 @@
 # Conversion rate challenge 
 # Classification and explanation of conversion features 
 
+notebook : https://colab.research.google.com/drive/1EKTuSCR2YLv6KoPfhgd-6SiWm6RQP-bF?usp=sharing
+
 Main findings :
 **There is a strong relationship between the pages views and conversion : the more pages you see, the more content you read, the more likely you are to find something of interest and buy it !**
 
